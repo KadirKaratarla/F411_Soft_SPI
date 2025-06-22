@@ -12,6 +12,7 @@ Neden SPI ve Neden Software SPI?
  * Bu gibi durumlarda GPIO’lar üzerinden SPI sinyallerini yazılım kontrollü olarak üretmek mümkündür ve bu yöntem software SPI (SSPI) olarak bilinir.
 
 Uygulama Adımları (SSPI ve HSPI)
+
 1. Software SPI (SSPI):
 CPOL ve CPHA değerlerini dinamik yapılandırılabilir hale getirerek SPI mod 0–3 desteği sağladım.
 
